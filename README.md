@@ -6,8 +6,9 @@ Java Version of a bin-packer at https://github.com/firthowsa/Packing_algorithm_2
 The code preserves the funcionality of the original javascript code
 
 # Demo
-Clone the code https://github.com/firthowsa/Packing_algorithm_2D.git com/iveloper/utils/packer/example/JavaBinPacker.java contains a running example you can play with.
-Usage
+Clone the code https://github.com/firthowsa/Packing_algorithm_2D.git 
+JavaBinPacker.java contains a running example you can play with.
+# Usage
 If you want to use it inside your project, you need to do something like this:
 
     Packer packer = new Packer(2, 600, 800);// 2 available packets to fill, 600x800 each
